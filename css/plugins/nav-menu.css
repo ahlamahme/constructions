@@ -40,7 +40,7 @@ header{ transition: all 0.5s ease 0s; position: relative; z-index: 99999; }
 .navbar-nav li > ul{ padding: 15px 0; margin: 0 0 0 10px; background: #282b2d; min-width: 225px; -webkit-box-shadow: 9px 11px 29px rgba(125, 138, 152, 0.15); -ms-box-shadow: 9px 11px 29px rgba(125, 138, 152, 0.15); -moz-box-shadow: 9px 11px 29px rgba(125, 138, 152, 0.15); box-shadow: 9px 11px 29px rgba(125, 138, 152, 0.15); }
 .navbar-nav li:hover > ul{ left: auto; }
 
-.navbar-nav > li.has-sub > ul{ text-align: left; opacity: 0; margin-top: 10px; -webkit-transition: all .5s ease; -ms-transition: all .5s ease; -moz-transition: all .5s ease; -o-transition: all .5s ease; transition: all .5s ease; }
+.navbar-nav > li.has-sub > ul{ text-align: right; opacity: 0; margin-top: 10px; -webkit-transition: all .5s ease; -ms-transition: all .5s ease; -moz-transition: all .5s ease; -o-transition: all .5s ease; transition: all .5s ease; }
 .navbar-nav > li.has-sub:hover > ul{ margin-top: 0; opacity: 1; }
 .navbar li > ul ul{ margin-top: -39px; margin-left: 260px; min-width: 300px; max-width: 100%; }
 .navbar li > ul ul ul{ margin-left: 175px; min-width: 130px; }
@@ -210,13 +210,13 @@ header{ transition: all 0.5s ease 0s; position: relative; z-index: 99999; }
 	.navbar-nav{ background: #fff; -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2); -ms-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2); box-shadow: 0 2px 3px rgba(0, 0, 0, 0.2); position: absolute; top: 70px; left: 0; width: 100%; transition-duration: 0; -ms-transition-duration: 0; -moz-transition-duration: 0; -webkit-transition-duration: 0; -o-transition-duration: 0; width: 100%; display: none; transition: none; -ms-transition: none; -moz-transition: none; -webkit-transition: none; -o-transition: none;  }
 	.navbar-nav li.active > a{ opacity: 1;  }
 	.navbar-nav ul{ width: 100%; display: none; transition: none; -ms-transition: none; -moz-transition: none; -webkit-transition: none; -o-transition: none;  }
-	.navbar-nav li{ width: 100%; border-top: 1px solid #e6e6e6; position: relative; padding: 0; margin: 0; text-align: left; }
+	.navbar-nav li{ width: 100%; border-top: 1px solid #e6e6e6; position: relative; padding: 0; margin: 0; text-align: right; }
 	.navbar-nav ul li:hover{ background: #f5f5f5;  }
 	.navbar-nav ul ul li{ height: auto;  }
 	.navbar-nav li:hover > ul > li{ height: auto;  }
 
 	.navbar ul li a{ width: 100%; border-bottom: 0;  }
-	.navbar ul ul{ position: relative; left: 0; width: 100%; margin: 0; text-align: left; background: #f5f5f5; padding: 0;  }
+	.navbar ul ul{ position: relative; left: 0; width: 100%; margin: 0; text-align: right; background: #f5f5f5; padding: 0;  }
 	.navbar ul ul li{ margin-bottom: 0; padding: 0; border-color: #e6e6e6;  }
 	.navbar ul ul li a{ width: 100%; border-bottom: 0; color: #0c3246; background: none; padding: 10px 35px 10px 30px;  }
 	.navbar ul ul ul li a{ padding-left: 45px;  }
