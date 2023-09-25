@@ -94,14 +94,17 @@ font-size: 34px;
     
     
 }
-
+.navbar-nav .submenu-button {
+  
+  right: 338px;}
+.navbar-nav li{
+  text-align: right;
+}
 .tra5es .owl-prev {
 
     position: absolute;
     top:25%;
     right: 100%;
-    
-    
 }
 .font-700{
   font-weight: 700 !important;
