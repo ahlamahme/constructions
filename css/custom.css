@@ -1,0 +1,237 @@
+.top-bar-info li i {
+  margin: 8px !important;
+}
+.navbar-nav > li > a{
+    font-size: 24px;
+}
+body{
+    font-family: 'Cairo', sans-serif;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 
+{  font-weight: 800;  font-family: 'Cairo', sans-serif;}
+.alt-font {  font-family: 'Cairo', sans-serif; }
+.main-font {  font-family: 'Cairo', sans-serif; }
+
+.navbar-nav > li.has-sub > ul {
+    text-align: right;
+ }
+ .service-img{
+    width: 456px;
+    height: 345px;
+ }
+ .fa-regular{
+    font-size: 50px;
+    color: aliceblue;
+
+ }
+ .fa-solid{
+    color: #26aae1;
+ }
+ .body-sec{
+    direction: rtl;
+ }
+ .sidebar .widget .category-list li a{
+font-size: 34px;
+ }
+ .sidebar .widget .category-list li span {
+    top:22px
+ }
+ .serv-detals{
+   height: 60%;
+    
+ }
+ .font-20{
+    font-size: 24px;
+    margin-bottom: 50px;
+ }
+ .serv-karfor-img{
+    width: 100%;
+    height: 621px;
+ }
+ .my-icon{
+    height: 75px;
+ }
+
+ .container {
+    max-width: 1731px;
+  }
+  .readmore{
+    font-size: 24px !important;
+  }
+  .top-bar-info li i{
+    margin: 8px;
+  }
+  .process-p{
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  .contain{
+    background-size: contain !important;
+  }
+  .updates-img{
+    width: 573px;
+    height: 540px;
+  }
+  .contact-icon{
+    margin-left: 25px;
+  }
+  .phonne{
+    margin-top: 39px;
+  }
+  .d-block{
+    width: 100% ;
+    height: 100% ;
+  }
+
+  .tra5es{
+    position: relative;
+  }
+  .tra5es .owl-next {
+
+    position: absolute;
+    top:25%;
+    left:100%;
+    
+    
+}
+
+.tra5es .owl-prev {
+
+    position: absolute;
+    top:25%;
+    right: 100%;
+    
+    
+}
+.font-700{
+  font-weight: 700 !important;
+}
+
+.tra5es button.owl-next {
+    font-size: 100px !important;
+}
+.tra5es button.owl-prev{
+    font-size: 100px !important;
+}
+
+.tra5es .owl-theme .owl-dots .owl-dot span{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.tra5es .tra5es-border
+{border: 30px solid #26aae1;}
+
+.service-style01 a{
+    font-size: 20px;
+ }
+ 
+ @media screen and (min-width: 1200px) {
+    /* CSS styles for large screens */
+    .atat-img{
+        height: 535px;
+     }
+    
+    /* Add more styles specific to large screens as needed */
+  }
+
+  .custom-button {
+    /* Add custom styles here */
+    background-color: #26aae1;
+    color: #ffffff;
+    padding: 12px;
+    border-radius: 20px;
+    margin: 10px;
+    width: 200px;
+    height: 95px;
+
+  }
+  .project-bg{
+    background-image: url('img/bg/bg-construction-site.webp');
+  }
+  
+
+  .active-button{
+    background-color: #001736;
+    color: #ffffff;
+
+    padding: 12px;
+    border-radius: 20px;
+    margin: 10px;
+    width: 200px;
+    height: 70px;
+  }
+  .custom-button:hover {
+    background-color: #001736;
+  }
+  .project_img {
+    width: 100%;
+    height: 500px;
+  }
+  
+    .logo {
+      width: 191px !important;
+      height: 80px !important;
+    
+  }
+.h-715{
+  height: 715px !important;
+}
+  
+  
+
+  
+
+  .img-hight{
+    height: 500px;
+    border-radius: 30px;
+    
+  }
+  .card{
+    --bs-card-border-width: 0px;
+  }
+  .elctro-img{
+
+    width: 500px;
+    height: 500px !important;
+
+  }
+
+/* project transport*/
+  .content {
+    display: none;
+  }
+
+  .active {
+    display: block;
+  }
+
+
+  .img-500-400{
+    
+    height: 500px;
+    margin: 5px;
+    width: 700px;
+    border-radius: 20px;
+  }
+  .img-500-1000{
+    height: 500px;
+    margin: 5px;
+    width: 800px;
+    border-radius: 20px;
+  }
+  .mo3gnat-img{
+    border-radius: 20px !important;
+    width: 360px;
+    height: 400px;
+  }
+  .br-3{
+    border-radius: 20px;
+  }
+  .hight-500{
+    height: 450px;
+  }
+  .bg-black{
+
+    background-color: #454ea2 !important;
+  }
