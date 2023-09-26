@@ -160,6 +160,10 @@ height: 90px;
   .project-bg{
     background-image: url('img/bg/bg-construction-site.webp');
   }
+
+  .card-image{
+    height: 400px;
+  }
   
 
   .active-button{
