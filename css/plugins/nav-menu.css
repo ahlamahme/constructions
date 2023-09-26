@@ -14,7 +14,7 @@
 header{ transition: all 0.5s ease 0s; position: relative; z-index: 99999; }
 
 .navbar-brand img{ max-height: 75px; transition-duration: 0.5s; }
-.navbar-header-custom{ padding: 17px 0 15px 0; }
+.navbar-header-custom{  }
 .navbar-default{ transition: all 0.5s ease 0s; -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2); -ms-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2); box-shadow: 0 0 3px rgba(0, 0, 0, 0.2); }
 .navbar-default .container, .navbar-default .container-fluid{ position: relative; }
 .menu_area{ position: relative; z-index: 2; }

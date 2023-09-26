@@ -163,7 +163,8 @@ height: 90px;
   }
 
   .card-image{
-    height: 400px;
+    height: 300px;
+    
   }
   
 
@@ -221,7 +222,10 @@ height: 90px;
   .active {
     display: block;
   }
-
+.alat-img{
+  height: 300px;
+  width: 300px;
+}
 
   .img-500-400{
     
