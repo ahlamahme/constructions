@@ -96,7 +96,8 @@ font-size: 34px;
 }
 .navbar-nav .submenu-button {
   
-  right: 338px !important;}
+  right: 80% !important;
+}
 .navbar-nav li{
   text-align: right !important;
 }
