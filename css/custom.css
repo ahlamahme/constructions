@@ -140,14 +140,22 @@ font-size: 34px;
 
   .custom-button {
     /* Add custom styles here */
-    background-color: #26aae1;
+    
     color: #ffffff;
-    padding: 12px;
-    border-radius: 20px;
+    
+    
     margin: 10px;
-    width: 200px;
-    height: 95px;
+    font-size: 24px;
+   
 
+  }
+  .fixedsize{
+    width: 148px;
+height: 90px;
+    background-color: #26aae1;
+    border-radius: 20px;
+    align-content: center;
+    
   }
   .project-bg{
     background-image: url('img/bg/bg-construction-site.webp');
@@ -164,7 +172,7 @@ font-size: 34px;
     width: 200px;
     height: 70px;
   }
-  .custom-button:hover {
+  .fixedsize:hover {
     background-color: #001736;
   }
   .project_img {
