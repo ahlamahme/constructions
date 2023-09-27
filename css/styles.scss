@@ -298,7 +298,7 @@ a {
 
     &:before {
       content: '\e64c';
-      font-family: 'themify';
+      font-family: 'Cairo', sans-serif;
       font-size: 18px;
       position: absolute;
       top: 0;
@@ -361,7 +361,7 @@ a {
   position: relative;
   z-index: 1;
   text-transform: uppercase;
-  font-family: 'Noto Naskh Arabic', serif;
+  font-family: 'Cairo', sans-serif;
 
   &:hover::before {
     opacity: 1;
@@ -4666,7 +4666,7 @@ pre[class*="language-"] {
     right: 0;
     margin-left: 20px;
     content: "\e64a";
-    font-family: 'themify';
+    font-family: 'Cairo', sans-serif;
     font-size: 21px;
     line-height: 70px;
     color: #fff;
@@ -4722,7 +4722,7 @@ pre[class*="language-"] {
       right: 0;
       margin-right: 20px;
       content: "\e64a";
-      font-family: 'themify';
+      font-family: 'Cairo', sans-serif;
       font-size: 21px;
       line-height: 70px;
       color: #fff;
