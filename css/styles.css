@@ -1001,7 +1001,7 @@ a:hover, a:active {
     opacity: 1; }
   .card-style02 .overlay-box .link-btn {
     position: absolute;
-    left: 30px;
+    left: 260px;
     bottom: 20px;
     transition: all 500ms ease; }
   .card-style02:hover .overlay-box .link-btn {
