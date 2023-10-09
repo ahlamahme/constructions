@@ -144,14 +144,18 @@ font-size: 34px;
     
     color: #ffffff;
     
-    
+    padding-left: 20px;
+    padding-right: 20px;
     margin: 10px;
     font-size: 24px;
+    padding: 20px;
+  
+    
    
 
   }
   .fixedsize{
-    width: 148px;
+    width: 160px;
 height: 90px;
     background-color: #26aae1;
     border-radius: 20px;
